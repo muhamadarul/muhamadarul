@@ -34,8 +34,8 @@ Selamat datang di profil GitHub saya! Saya seorang developer yang senang membang
 
 ## 🤝 Terhubung Dengan Saya
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhamadarul)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:muhamadarul@email.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhamad-arul-sendri-234a12197/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:muhamadarul907@gmail.com)
 
 ---
 
